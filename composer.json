@@ -1,5 +1,5 @@
 {
-    "name": "root/php-app",
+    "name": "adaoreis/secure-api",
     "description": "Este é um projeto voltado há implementação de segurança ha nivel de api. O projeto tem o foco de tornar as apis ja existente o mais segura posível. Tentando assim fazer e ser o mais facìl de implementar",
     "authors": [
         {
