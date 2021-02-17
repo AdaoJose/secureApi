@@ -1,0 +1,5 @@
+
+    #isto é um comentario
+lohan.local
+172.24.27.192
+
